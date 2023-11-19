@@ -1,0 +1,163 @@
+ @media only screen and (max-width : 767px) {
+    .ptb-120 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .navbar-light {
+        background: #000;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .section-header h2 {
+        font-size: 14px;
+    }
+    .section-header h2::before {
+        top: 32px;
+    }
+    .section-header p {
+        font-size: 11px;
+    }
+    .banner-text {
+        top: 40%;
+    }
+    .banner-img {
+        width: 80px;
+    }
+    .banner-text h2 {
+        font-size: 20px;
+    }
+    .banner-text p {
+        font-size: 10px;
+    }
+    .banner-form {
+        margin: 0;
+        padding-top: 0px;
+        padding-bottom: 85px;
+        width: auto;
+    }
+    .banner-form-head h2 {
+        font-size: 15px;
+    }
+    .social-text h3 {
+        font-size: 17px;
+    }
+    .social-text p {
+        font-size: 10px;
+    }
+    .social-icon {
+        text-align: center;
+    }
+    .social-icon ul {
+        margin: 17px 0 0 0;
+    }
+    .social-icon ul li {
+        padding: 0 0 0 18px;
+    }
+    .social-icon ul li i {
+        font-size: 30px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+        width: 90px;
+        height: 60px;
+        padding: 19px 21px;
+    }
+    .nav-pills .nav-link {
+        width: 90px;
+        height: 60px;
+        padding: 19px 21px;
+        margin: 1px 0 0 0;
+    }
+    div#v-pills-tab {
+        margin: 0 0 30px 0px;
+    }
+    .tab-1 h3 {
+        margin: 0 0 1px 0;
+        font-size: 15px;
+    }
+    .tab-1 p, .tab-2 p, .tab-3 p {
+        margin: 0 0 16px 0;
+        font-size: 10px;
+    }
+    .about-area a.custom-btn {
+        font-size: 10px;
+        padding: 6px 10px;
+    }
+    .abt-img {
+        margin: 50px 0 0 90px;
+    }
+    .sublist-right {
+        margin: 0;
+    }
+    .unique-section-header {
+        text-align: center;
+    }
+    .unique-section-header h2 {
+        font-size: 18px;
+    }
+    .unique-section-header h2::before {
+        right: 0;
+        left: 0;
+        top: 38px;
+    }
+    .unique-section-header p {
+        margin: 35px auto 0 auto;
+    }
+    .single-awsm {
+        padding-bottom: 53px;
+    }
+    .single-awsm p {
+        margin: 0 auto;
+        max-width: unset;
+    }
+    .design1 {
+        margin: 28px 0 28px 0;
+    }
+    .price-rate h6 {
+        left: 63px;
+        right: 0;
+        top: -42px;
+    }
+    .client-card {
+        padding: 0 0 60px 0px;
+    }
+    .style-area .section-header h2 {
+        font-size: 20px;
+    }
+    .style-area .section-header h2::before {
+        top: 44px;
+    }
+    .style-area .section-header p {
+        font-size: 10px;
+    }
+    .footer-ul ul li {
+        padding: 0 4px;
+    }
+} 
+
+@media only screen and (max-width : 991px) {
+    .single-awsm {
+        padding-bottom: 50px;
+    }
+    .abt-img {
+        padding: 90px 0 0 0;
+    }
+    .client-card {
+        padding: 60px 0 0 0;
+    }
+}
+@media only screen and (max-width : 1200px) {
+    .banner-form {
+        margin: 0;
+    }
+}
